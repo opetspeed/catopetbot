@@ -113,7 +113,7 @@ async def bot_start(event):  # sourcery skip: low-code-quality
                 Button.url("☕ sᴜᴘᴘᴏʀᴛ", "https://t.me/AstroMusikk"),
                 Button.url(
                     "Deploy",
-                    "🤖 ʙᴏᴛ ᴍᴜsɪ", "https://t.me/herantapibot"),https://github.com/TgCatUB/nekopack
+                    "🤖 ʙᴏᴛ ᴍᴜsɪ", "https://t.me/herantapibot",
                 ),
             )
         ]
